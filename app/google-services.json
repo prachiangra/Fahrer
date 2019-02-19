@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "121816983292",
+    "firebase_url": "https://fahrer-e6f07.firebaseio.com",
+    "project_id": "fahrer-e6f07",
+    "storage_bucket": "fahrer-e6f07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121816983292:android:77824f8e2e03e2d4",
+        "android_client_info": {
+          "package_name": "com.example.fahrer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121816983292-vqrkae7nc0bmjbjd13cjsn01i3rilbos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fahrer",
+            "certificate_hash": "585f4e7f1111fcafde64a40cb5104f8f3d412965"
+          }
+        },
+        {
+          "client_id": "121816983292-35k7vsse48ahk0ttsqg6mgoofqsoalgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5UxVkXWWCastOg57ilE7BXCqDeq16wCY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121816983292-35k7vsse48ahk0ttsqg6mgoofqsoalgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
